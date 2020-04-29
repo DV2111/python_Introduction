@@ -7,5 +7,5 @@ Let´s see :
  3.Lists
  4.Functions
  5.Dictionary
- 6.Condicionales
- 7.Modulos
+ 6.Condicitions
+ 7.ModulES
